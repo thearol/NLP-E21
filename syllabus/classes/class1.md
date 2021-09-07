@@ -3,6 +3,7 @@ This class will take us through the work stack we will be using for natural lang
 
 ## Preparation for class
 #testing, testing
+#testing again
 
 ### Slack
 You should all have recieved an invite to slack on Brightspace under the NLP class. You are expected to have set this up before class.
