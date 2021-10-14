@@ -2,8 +2,10 @@
 Logistic regression implemented using the nn.module class
 """
 
+
 import torch
 import torch.nn as nn
+
 from sklearn import datasets
 
 class Model(nn.Module):
@@ -30,7 +32,7 @@ model = Model(n_input_features=10)
 
 # define loss and optimizer
 criterion = nn.BCELoss()
-optimizer = torch.optim.Adam(model.parameters()) 
+optimizer = torch.optim.Adam(model.parameters()) #Adam instead of SGD. could also specify a lr
 
 # train
 epochs = 10000
