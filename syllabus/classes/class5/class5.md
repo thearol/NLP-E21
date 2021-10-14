@@ -7,7 +7,7 @@ Before the class you are required to:
 - 1) have an implementation of logistic regression or at least a strong attempt.
 
 
-## Plan for class
+## Plan for class 
 
 - 1) Feedback on assignment 1
 - 2) Example solution for logistic regression
