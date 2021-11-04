@@ -2,7 +2,7 @@ import os
 from typing import List
 from spacy.training import Corpus
 import spacy
-from wasabi import msg
+from wasabi import msg 
 
 
 def read_corpus() -> dict:
