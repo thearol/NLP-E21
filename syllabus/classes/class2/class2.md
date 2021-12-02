@@ -6,7 +6,7 @@ No preparation is required for the class.
 
 ## Plan for class
 
-### Part 1
+### Part 1 
 Create a corpus object which for each document in the folder `train_corpus` saves to an object the document ID, the text, the tokenization of the text and the sentences of the text. This can preferably be split into three tasks:
 - 1) Loading in the files as text.
 - 2) Segment the sentences in the text.
