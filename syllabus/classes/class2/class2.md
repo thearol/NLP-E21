@@ -1,7 +1,7 @@
 # Class 2
 
 ## Preparation for class
-
+ 
 No preparation is required for the class.  
 
 ## Plan for class
