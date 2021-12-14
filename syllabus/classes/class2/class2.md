@@ -2,7 +2,7 @@
 
 ## Preparation for class
  
-No preparation is required for the class.   
+No preparation is r equired for the class.   
   
 ## Plan for class
  
