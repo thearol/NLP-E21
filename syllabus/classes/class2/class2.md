@@ -3,7 +3,7 @@
 ## Preparation for class
   
 No preparation is r equired for the class.   
-  
+   
 ## Plan for class
  
 ### Part 1 
